@@ -1,8 +1,8 @@
 import './App.css';
 import React, { Component } from 'react';
 
-import Header from './components/Header';
-import LoginForm from './components/LoginForm';
+import Header from './components/Header.js';
+import LoginForm from './components/LoginForm.js';
 
 class App extends Component {
   render() {
